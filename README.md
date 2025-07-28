@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0190-reverse-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0112-path-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
