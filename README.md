@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0136-single-number) |
 ## Trie
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0112-path-sum) |
 ## Depth-First Search
@@ -119,10 +121,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0112-path-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0190-reverse-bits) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
