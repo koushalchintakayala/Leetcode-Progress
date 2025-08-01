@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0283-move-zeroes) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0268-missing-number) |
 ## Tree
 |  |
@@ -140,9 +143,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0190-reverse-bits) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
