@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0283-move-zeroes) |
+| [0503-next-greater-element-ii](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0503-next-greater-element-ii) |
 | [0792-binary-search](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Trie
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0094-binary-tree-inorder-traversal) |
+| [0503-next-greater-element-ii](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0503-next-greater-element-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0169-majority-element) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
