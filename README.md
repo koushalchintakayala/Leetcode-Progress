@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0283-move-zeroes) |
 | [0503-next-greater-element-ii](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0503-next-greater-element-ii) |
 | [0792-binary-search](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0792-binary-search) |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Trie
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0283-move-zeroes) |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 ## String Matching
 |  |
 | ------- |
