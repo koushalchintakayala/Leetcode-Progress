@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Array
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2573-find-the-string-with-lcp) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Union-Find
 |  |
 | ------- |
