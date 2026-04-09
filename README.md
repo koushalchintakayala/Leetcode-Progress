@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Trie
 |  |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0190-reverse-bits) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
