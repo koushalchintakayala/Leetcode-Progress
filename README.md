@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0171-excel-sheet-column-number) |
 | [0657-robot-return-to-origin](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0657-robot-return-to-origin) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2573-find-the-string-with-lcp](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
