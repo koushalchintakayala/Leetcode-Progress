@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0874-walking-robot-simulation](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0874-walking-robot-simulation) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2573-find-the-string-with-lcp](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2573-find-the-string-with-lcp) |
