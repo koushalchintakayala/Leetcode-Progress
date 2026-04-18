@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Math
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0268-missing-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Trie
 |  |
 | ------- |
