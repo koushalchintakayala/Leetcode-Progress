@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0874-walking-robot-simulation) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2463-minimum-total-distance-traveled](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2463-minimum-total-distance-traveled) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0283-move-zeroes) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3643-flip-square-submatrix-vertically) |
 ## String Matching
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0792-binary-search) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3488-closest-equal-element-queries](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3488-closest-equal-element-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Dynamic Programming
