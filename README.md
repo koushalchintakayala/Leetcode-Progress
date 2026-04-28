@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0268-missing-number) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2463-minimum-total-distance-traveled) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0268-missing-number) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
