@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0268-missing-number) |
+| [0396-rotate-function](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0396-rotate-function) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0283-move-zeroes) |
+| [0396-rotate-function](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0396-rotate-function) |
 | [0503-next-greater-element-ii](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0503-next-greater-element-ii) |
 | [0792-binary-search](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0792-binary-search) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0396-rotate-function](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0396-rotate-function) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2463-minimum-total-distance-traveled](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2463-minimum-total-distance-traveled) |
