@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1861-rotating-the-box) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0283-move-zeroes) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1861-rotating-the-box) |
 | [3643-flip-square-submatrix-vertically](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3643-flip-square-submatrix-vertically) |
 ## String Matching
 |  |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1861-rotating-the-box](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2573-find-the-string-with-lcp) |
