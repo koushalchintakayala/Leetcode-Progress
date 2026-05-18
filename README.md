@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0874-walking-robot-simulation](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0874-walking-robot-simulation) |
+| [1345-jump-game-iv](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2784-check-if-array-is-good) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0792-binary-search) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0874-walking-robot-simulation](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0874-walking-robot-simulation) |
+| [1345-jump-game-iv](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0112-path-sum) |
+| [1345-jump-game-iv](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
