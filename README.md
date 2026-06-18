@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0788-rotated-digits) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
