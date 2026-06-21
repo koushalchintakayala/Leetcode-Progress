@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1732-find-the-highest-altitude](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0268-missing-number) |
 | [1340-jump-game-v](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1833-maximum-ice-cream-bars](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1840-maximum-building-height) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2126-destroying-asteroids) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1833-maximum-ice-cream-bars](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -486,4 +489,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3691-maximum-total-subarray-value-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
