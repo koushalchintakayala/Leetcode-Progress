@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0874-walking-robot-simulation](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0874-walking-robot-simulation) |
+| [1189-maximum-number-of-balloons](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0171-excel-sheet-column-number) |
 | [0657-robot-return-to-origin](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0796-rotate-string) |
+| [1189-maximum-number-of-balloons](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1871-jump-game-vii](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1871-jump-game-vii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2833-furthest-point-from-origin) |
 ## Monotonic Stack
 |  |
