@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0792-binary-search) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0874-walking-robot-simulation](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0874-walking-robot-simulation) |
+| [1288-remove-covered-intervals](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1340-jump-game-v) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0268-missing-number) |
+| [1288-remove-covered-intervals](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1833-maximum-ice-cream-bars) |
