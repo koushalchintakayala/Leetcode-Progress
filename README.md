@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
