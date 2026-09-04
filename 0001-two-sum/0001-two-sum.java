@@ -5,6 +5,7 @@ class Solution {
 
         for (int i = 0; i < n; i++) {
             int complement = target - nums[i];
+            
             if (numMap.containsKey(complement)) {
                 return new int[]{numMap.get(complement), i};
             }
