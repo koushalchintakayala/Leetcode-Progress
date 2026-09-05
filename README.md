@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0874-walking-robot-simulation](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1189-maximum-number-of-balloons) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0242-valid-anagram) |
 | [0657-robot-return-to-origin](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0796-rotate-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1288-remove-covered-intervals) |
