@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0347-top-k-frequent-elements) |
 | [0874-walking-robot-simulation](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1345-jump-game-iv) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0396-rotate-function) |
 | [0503-next-greater-element-ii](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0605-can-place-flowers) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1340-jump-game-v) |
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0190-reverse-bits) |
+| [0347-top-k-frequent-elements](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0347-top-k-frequent-elements) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -496,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2833-furthest-point-from-origin) |
 | [3312-sorted-gcd-pair-queries](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3312-sorted-gcd-pair-queries) |
@@ -623,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0347-top-k-frequent-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3620-network-recovery-pathways) |
@@ -660,4 +666,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
