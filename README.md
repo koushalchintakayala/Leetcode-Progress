@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0347-top-k-frequent-elements) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0238-product-of-array-except-self) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1871-jump-game-vii) |
