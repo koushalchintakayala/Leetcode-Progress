@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0242-valid-anagram) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0128-longest-consecutive-sequence) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
