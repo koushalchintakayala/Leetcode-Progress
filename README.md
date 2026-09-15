@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0424-longest-repeating-character-replacement) |
 | [0874-walking-robot-simulation](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1345-jump-game-iv) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0796-rotate-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1871-jump-game-vii) |
 ## Bit Manipulation
