@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0066-plus-one) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0094-binary-tree-inorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0125-valid-palindrome) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -525,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/koushalchintakayala/Leetcode-Progress/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
